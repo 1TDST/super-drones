@@ -1,0 +1,69 @@
+#corpo{
+  background-color: #000000;
+  font-family: "Tahoma", serif;
+  padding: 22px;
+  font-size: 16px;
+}
+
+.tit-pag{
+  color: #ffffff;
+  font-size: 50px;
+}
+
+#container{
+  width: 1200px;
+  margin: 0px auto 0px auto;
+}
+
+.drones{
+  background-color: #ffffff;
+  text-align: justify;
+  border: 1px solid #cccccc;
+  margin-bottom: 20px;
+}
+
+.sub-tit{
+  margin: 0;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+.par{
+    text-align: right;
+}
+
+.links{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.par-tw{
+  font-weight: 900;
+  text-align: right;
+  border-left: 0;
+  border-top: 0;
+  border-right: 0;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+#drone{
+  width: 120px;
+  height: 150px;
+  border:solid 1px #7E9F19;
+  margin:10px 10px 0px 0px;
+  padding: 2px;
+  float: left;
+}
+
+.Exercicio-Web{
+  font-size: 12px;
+  color: #FFFFFF;
+  text-align: center;
+}
