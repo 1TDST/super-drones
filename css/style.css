@@ -1,0 +1,82 @@
+body{
+  background-image: url("../img/fundo.jpg");
+  font-family: "Cablibri", "Tahoma", "Arial";
+  line-height: 22px;
+  font-size: 16px;
+}
+
+h1{
+  background-color: #FFFFFF;
+  font-size: 50px;
+  padding: 18px 13px 18px 13px;
+}
+
+h2{
+    border: 0px;
+    border-bottom: 1px;
+    border-color: #7E9F19;
+    border-style: dashed;
+}
+
+a{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #DC143C;
+}
+
+img{
+  width: 120px;
+  height: 150px;
+
+  border: 1px;
+  margin: 10px 10px 0px 0px;
+  padding: 2px;
+  border-style: solid;
+  border-color: #7E9F19;
+  float: left;
+}
+
+.conteudo{
+  width: 1200px;
+  margin: 0 auto 0 auto;
+}
+
+.drone1{
+  background-color: #FFFFFF;
+  text-align: justify;
+  text-shadow: 1px 1px #CCCCCC;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
+}
+
+.drone2{
+  background-color: #FFFFFF;
+  text-align: justify;
+  text-shadow: 1px 1px #CCCCCC;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
+}
+
+.drone3{
+  background-color: #FFFFFF;
+  text-align: justify;
+  text-shadow: 1px 1px #CCCCCC;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
+}
+
+.twitter{
+  border: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+.frase{
+  text-align: center;
+  color: #FFFFFF;
+}
