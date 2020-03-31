@@ -1,0 +1,18 @@
+
+
+#total {
+  background-color: black;
+  font-family: 'Tahoma';
+  line-height: 22px;
+  font-size: 18px;
+  background-image: url("../img/fundo.jpg");
+  color: aliceblue;
+  width: 0 0 auto auto 1200px;
+}
+
+.container {
+  color: blanchedalmond;
+  font-size: 50px;
+  text-align: center;
+  padding: 2%;
+}
