@@ -7,7 +7,7 @@
 body{
   line-height: 22px;
   font-size: 16px;
-  background:linear-gradient(120deg, rgba(126, 159, 25, 0.363),#7E9F19);
+  background:linear-gradient(115deg, #7E9F19,black);
 }
 
 .e-container{
