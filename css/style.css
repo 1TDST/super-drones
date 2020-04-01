@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Sen&display=swap');
+
+*{
+    font-family: 'Sen';
+}
+
+body{
+  line-height: 22px;
+  font-size: 16px;
+  background:linear-gradient(120deg, rgba(126, 159, 25, 0.363),#7E9F19);
+}
+
+.e-container{
+  width:1200px;
+  margin: 0 auto;
+}
+
+.e-container h1{
+  font-size: 50px;
+  color: white;
+  text-shadow: 3px 3px 10px black;
+}
+
+.e-div-drone{
+  background-color: white;
+  text-align: justify;
+  border: 1px solid #cccccc;
+  padding:20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+
+}
+
+.e-container .e-div-drone h2{
+  margin:0;
+  border-bottom: 1px dashed #7E9F19;
+}
+
+.e-container .e-div-drone img{
+  width:120px;
+  height: 150px;
+  border: 1px solid #7E9F19;
+  margin: 20px 10px 0px 0px;
+  padding: 2px;
+  float: left;
+}
+
+.e-container .e-div-drone p:last-child{
+  border-bottom: 1px dashed #7E9F19;
+}
+
+.e-container .e-div-drone p a{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+  transition: 0.3s ease;
+}
+
+.e-container .e-div-drone p a:hover{
+  color: #DC143C;
+  font-weight: 900;
+}
+
+.e-container .e-exercicio{
+  font-size: 12px;
+  color: white;
+  text-align: center;
+}
+
+
