@@ -1,0 +1,59 @@
+body {
+    /* background-color: #000000; */
+    background-image: url("/super-drones/img/fundo.jpg");
+    font-family: 'Calibri', 'Tahoma', 'Arial';
+    line-height: 22px;
+    font-size: 16px;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 50px;
+}
+
+h2 {
+    margin: 0;
+    border-bottom: 1px dashed #7e9f19;
+}
+
+a {
+    color: #2c88a7;
+    font-weight: 900px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #dc143c;
+}
+
+img {
+    width: 120px;
+    height: 150px;
+    border: 1px solid #7e9f19;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+    float: left;
+}
+
+#twitter {
+    border-bottom: 1px dashed #739f19;
+}
+
+#divPai {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+#divDrone {
+    background-color: #ffffff;
+    text-align: center;
+    border: 1px solid #cccccc;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+#ultimoDiv {
+    font-size: 12px;
+    color: #ffffff;
+    text-align: center;
+}
