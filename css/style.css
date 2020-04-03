@@ -1,0 +1,24 @@
+body {
+  background-color: #000000;
+  font-family: 'Calibri','Tahoma','Arial';
+  line-height: 22px;
+  font-size: 16px;
+
+}
+
+container h1 {
+  color:#FFFFFF;
+  font-size: 50px
+}
+
+container {
+  width: 1200px;
+  margin-top: 0;
+  margin-right: auto;
+  margin-bottom: 0;
+  margin-left: auto;
+}
+
+drone {
+  background-color: : #FFFFFF;
+}
