@@ -1,0 +1,75 @@
+@charset "UTF-8";
+
+body{
+  /*background-color: #000000;*/
+  background-image: url(../img/fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Calibri','Tahoma','Arial';
+  line-height: 22px;
+  font-size:16px;
+}
+
+#container h1{
+  color: #ffffff;
+  font-size: 50px;
+}
+
+#container{
+  width: 1200px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.drone{
+  background-color: #ffffff;
+  text-align: justify;
+  border: 1px solid #CCCCCC;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
+}
+
+.drone h2{
+  margin: 0px;
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+}
+
+a{
+  color: #2C88A7;
+  font-weight: 900;
+  text-decoration: none;
+}
+
+.p1{
+  text-align: right;
+}
+
+.p2{
+  text-align: right;
+  border-style: dashed;
+  border-color: #7E9F19;
+  border-width: 0px 0px 1px 0px;
+}
+
+a:HOVER{
+  color:#DC143C;
+}
+
+.drone img{
+  width: 120px;
+  height: 150px;
+  border: 1px solid #7E9F19;
+  margin: 10px 10px 0px 0px;
+  padding: 2px;
+  float: left;
+}
+
+#rodape{
+  font-size: 12px;
+  color: #ffffff;
+  text-align: center;
+}
