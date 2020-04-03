@@ -40,7 +40,7 @@ img{
   float: left;
 }
 
-.conteudo{
+#container{
   width: 1200px;
   margin: 0 auto 0 auto;
 }
@@ -53,30 +53,19 @@ img{
   padding: 20px;
 }
 
-.drone2{
-  background-color: #FFFFFF;
-  text-align: justify;
-  text-shadow: 1px 1px #CCCCCC;
-  margin: 0px 0px 20px 0px;
-  padding: 20px;
-}
-
-.drone3{
-  background-color: #FFFFFF;
-  text-align: justify;
-  text-shadow: 1px 1px #CCCCCC;
-  margin: 0px 0px 20px 0px;
-  padding: 20px;
+.fonte{
+  text-align: right;
 }
 
 .twitter{
+  text-align: right;
   border: 0px;
   border-bottom: 1px;
   border-style: dashed;
   border-color: #7E9F19;
 }
 
-.frase{
+#frase{
   text-align: center;
   color: #FFFFFF;
 }
