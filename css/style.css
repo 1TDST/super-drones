@@ -7,3 +7,30 @@ body{
   line-height: 22px;
   font-size:16px;
 }
+
+#container h1{
+  color: #ffffff;
+  font-size: 50px;
+}
+
+#container{
+  width: 1200px;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 0px;
+  margin-left: auto;
+}
+
+.drone{
+  background-color: #ffffff;
+  text-align: justify;
+  border: 1px solid #CCCCCC;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
+}
+
+.drone h2{
+  margin: 0px;
+  border: 1px dashed #7E9F19;
+  
+}
