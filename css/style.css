@@ -1,13 +1,33 @@
-#Container{
+@charset "UTF-8";
 
-  background-color: #000000;
+body{
+ \\background-color: #000000;
+  background-image: url(/fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: ' Calibri','Tahoma','Arial';
   font-size: 16px;
   width:22px;
+}
+
+#Container{
+
+  width: 1200px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  margin-left: auto;
+  margin-right: auto;
 }
 .H1{
 
   color: #ffffff;
   font-size: 50px;
 
+}
+.drone{
+  color: #ffffff;
+  text-align: justify;
+  border: 1px solid #cccccc;
+  margin: 0px 0px 20px 0px;
+  padding: 20px;
 }
