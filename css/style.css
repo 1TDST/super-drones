@@ -1,0 +1,39 @@
+@charset "UTF-8";
+
+body{
+  background-image: url("../img/fundo.jpg");
+  /*background-color: #000000;*/
+  font-family: Calibri, Tahoma, Arial, serif;
+  font-size: 16px;
+  line-height: 22px;
+}
+
+.container{
+  width: 1200px;
+  margin: 0px, auto, 0px, auto;
+}
+
+.h1{
+  color: #FFFFFF;
+  font-size: 50px;
+}
+
+.drones{
+  background-color: #FFFFFF;
+  text-align: justify;
+  border: 1px;
+  border-style: solid;
+  border-color: #CCCCCC;
+  border-bottom: 20px;
+}
+
+h2{
+  margin: 0px;
+  border-bottom: 1px;
+  border-style: dashed;
+  border-color: #7E9F19;
+}
+
+a{
+
+}
