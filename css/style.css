@@ -1,4 +1,4 @@
-@charset "UTF-8";
+@charset "UTF-8"; 
 
 body {
   background-image: url(../img/fundo.jpg);
@@ -26,7 +26,7 @@ body {
 .drone {
   background-color: #ffffff;
   text-align: justify;
-  border: 1px; solid; #CCCCCC; 
+  border: 1px; solid; #CCCCCC;
   margin: 0px 0px 20px 0px;
   padding: 20px;
 }
